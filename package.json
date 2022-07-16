@@ -1,13 +1,17 @@
 {
 	"author": "Abraomukas",
 	"description": "A project that helps me get familiar with npm",
-	"keywords": ["npm", "demo", "freecodecamp"],
+	"keywords": [
+		"npm",
+		"demo",
+		"freecodecamp"
+	],
 	"license": "MIT",
 	"version": "1.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment":"2.14.0"
+		"moment": "^2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
